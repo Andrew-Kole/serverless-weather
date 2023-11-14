@@ -2,6 +2,7 @@
   "name": "serverless-weather-api",
   "version": "1.0.0",
   "dependencies": {
+    "aws-sdk": "^2.1495.0",
     "axios": "^1.6.1"
   }
 }
